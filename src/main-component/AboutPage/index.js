@@ -14,7 +14,7 @@ const AboutPage =() => {
     return(
         <Fragment>
             <Navbar/>
-            <PageTitle pageTitle={'About Us'} pagesub={'About'}/> 
+            <PageTitle pageTitle={'Bryan P'} pagesub={'About'}/> 
             <About/>
             <Features/>
             <RoomSection/>
